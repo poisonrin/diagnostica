@@ -1,0 +1,20 @@
+html{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#perfil{
+    margin-left: 3%;
+    bottom: 150px;
+    position: fixed;
+    border-radius: 50%;
+}
+
+.sobre{
+    margin-left: 35%;
+}
+
+button{
+    border-radius: 20%;
+}
